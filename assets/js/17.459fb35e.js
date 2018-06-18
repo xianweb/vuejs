@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{92:function(n,t,e){"use strict";e.r(t);var u={name:"ButtonCounter2",data:{count:0}},c=e(0),o=Object(c.a)(u,function(){var n=this,t=n.$createElement;return(n._self._c||t)("button",{on:{click:function(t){n.count++}}},[n._v("You clicked me "+n._s(n.count)+" times.")])},[],!1,null,null,null);t.default=o.exports}}]);
